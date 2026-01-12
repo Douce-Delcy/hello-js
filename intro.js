@@ -1,1 +1,1 @@
-console (" Hello, my name is Douce Delcy Dushime. I am 24. My favorite programming language is javascript. ")
+console.log (" Hello, my name is Douce Delcy Dushime. I am 24. My favorite programming language is javascript. ")
